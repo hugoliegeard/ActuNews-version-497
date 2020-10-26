@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90b2e402-9a51-422b-a42c-e6b39686ccc3" name="Default Changelist" comment="" />
+    <list default="true" id="90b2e402-9a51-422b-a42c-e6b39686ccc3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/uploads/images/22421943-5f96cbe72f547.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/DefaultController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/DefaultController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/default/category.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/default/category.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/default/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/default/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/default/post.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/default/post.html.twig" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,6 +184,7 @@
       <workItem from="1603268394561" duration="13988000" />
       <workItem from="1603352668098" duration="17472000" />
       <workItem from="1603438114101" duration="18612000" />
+      <workItem from="1603703619885" duration="9077000" />
     </task>
     <servers />
   </component>
@@ -208,5 +217,9 @@
     </state>
     <state x="104" y="0" width="1816" height="1040" key="SettingsEditor.inPresentationMode/1920.0.1280.688/0.0.1920.1040@1920.0.1280.688" timestamp="1603104860651" />
     <state x="2070" y="0" key="SettingsEditor/1920.0.1280.688/0.0.1920.1040@1920.0.1280.688" timestamp="1603105239987" />
+    <state x="2587" y="273" width="585" height="534" key="find.popup" timestamp="1603703759315">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2587" y="273" width="585" height="534" key="find.popup/-1920.1080.1097.594/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603703759315" />
   </component>
 </project>
